@@ -2,6 +2,15 @@
   text-align: center;
 }
 
+#root{
+  text-align: center;
+}
+
+button{
+  padding: 30px;
+  font-size: 50px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
